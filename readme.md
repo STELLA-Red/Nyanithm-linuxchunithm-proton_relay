@@ -9,8 +9,10 @@
 ```zsh
  python serial_relay.py
 ```
+
 后打开游戏，无需进行其他操作
 下面是原理介绍
+
 ---
 # Nyanithm Controller V3 · Linux (Wine / Proton) 使用说明
 
