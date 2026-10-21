@@ -1,6 +1,7 @@
 # 首先需知
 
- 本文默认你已经从https://github.com/korewaChino/chuni-linux使用lutris配置了游戏并且成功打开，除手台之外没有其他问题
+ 本文默认你已经从 https://github.com/korewaChino/chuni-linux 使用lutris配置了游戏并且成功打开，除手台之外没有其他问题
+ 
  原文有几个坑需要你了解
 1. 请使用proton10进行游戏，经过测试ge-proton 11和wine11,proton 7均无法正常打开游戏
 2. 请设置游戏环境变量 DXVK_FRAME_RATE = 120 ，帧数高了游戏能够突破设计的120帧运行，但是运行时概率崩溃
@@ -10,8 +11,9 @@
  python serial_relay.py
 ```
 
-后打开游戏，无需进行其他操作
-下面是原理介绍
+ 后打开游戏，无需进行其他操作
+ 
+ 下面是原理介绍
 
 ---
 # Nyanithm Controller V3 · Linux (Wine / Proton) 使用说明
